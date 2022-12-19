@@ -1,0 +1,19 @@
+.list-item {
+  margin: 10px;
+}
+
+li {
+  margin: 10px;
+}
+
+.button-text {
+  color: #db1c48;
+  border: #db1c48 solid 1px;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.active-button {
+  background-color: #db1c48;
+  color: #ffffff;
+}
